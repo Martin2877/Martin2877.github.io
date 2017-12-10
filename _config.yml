@@ -6,18 +6,18 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
+title: MuheBlog
+description: 木禾
+url: "https://martin2877.github.io/"
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: 木禾
 profile_img: 
 profile: 
 social:
-  github: 
+  github: https://github.com/Martin2877
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
