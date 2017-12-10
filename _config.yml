@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: martin2877@foxmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: 木禾
-profile_img: 
+profile_img: https://picsum.photos/200/300?image=1005
 profile: 
 social:
   github: https://github.com/Martin2877
