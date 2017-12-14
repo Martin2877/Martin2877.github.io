@@ -11,8 +11,6 @@ intext allintext 网页内容查找关键字
 link 搜索链接到某个网站的链接
 ```
 
-
-
 ### 搜索文件
 
 ```
@@ -37,8 +35,6 @@ admin|administrator
 -ext:html|-ext:htm|-ext:asp|-exp:php 过滤掉常见的
 inurl:temp|inurl:tmp|inurl:backup|inurl:bak 这个不一定用url来
 ```
-
-
 
 ### 注意
 
