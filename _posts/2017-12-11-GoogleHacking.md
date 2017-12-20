@@ -14,9 +14,7 @@ link 搜索链接到某个网站的链接
 ### 搜索文件
 
 ```
-filetype:
-xls doc txt
-
+filetype:xls doc txt
 收集服务器信息：
 intitle:index.of filetype:log
 ```
