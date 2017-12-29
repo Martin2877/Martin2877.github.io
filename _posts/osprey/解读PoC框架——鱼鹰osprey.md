@@ -76,56 +76,6 @@ osprey
 │      __init__.py
 │
 ├─thirdparty # 第三方模块
-│  │  __init__.py
-│  │
-│  └─requests_toolbelt
-│      │  exceptions.py
-│      │  sessions.py
-│      │  streaming_iterator.py
-│      │  _compat.py
-│      │  __init__.py
-│      │
-│      ├─adapters
-│      │      appengine.py
-│      │      fingerprint.py
-│      │      host_header_ssl.py
-│      │      socket_options.py
-│      │      source.py
-│      │      ssl.py
-│      │      __init__.py
-│      │
-│      ├─auth
-│      │      guess.py
-│      │      handler.py
-│      │      http_proxy_digest.py
-│      │      _digest_auth_compat.py
-│      │      __init__.py
-│      │
-│      ├─cookies
-│      │      forgetful.py
-│      │      __init__.py
-│      │
-│      ├─downloadutils
-│      │      stream.py
-│      │      tee.py
-│      │      __init__.py
-│      │
-│      ├─multipart
-│      │      decoder.py
-│      │      encoder.py
-│      │      __init__.py
-│      │
-│      ├─threaded
-│      │      pool.py
-│      │      thread.py
-│      │      __init__.py
-│      │
-│      └─utils
-│              deprecated.py
-│              dump.py
-│              formdata.py
-│              user_agent.py
-│              __init__.py
 │
 └─web # api/web相关
     │  check.py # 输入参数检查
